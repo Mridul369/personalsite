@@ -1,0 +1,142 @@
+
+body{
+  color:#40514E;
+  margin:0;
+  text-align: center;
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+h1{
+  margin:30px auto 0 auto;
+font-family: 'Edu QLD Beginner', cursive;
+font-size:3.25rem;
+color:#0078AA;
+line-height: 2;
+}
+h2{
+  font-family: 'Raleway', sans-serif;
+  font-size:2rem;
+  font-weight: normal;
+  color:#0078AA;
+  padding-bottom: 10px;
+}
+h3{
+font-family: 'Oswald', sans-serif;
+color:#11999E;
+}
+p{
+  line-height: 2;
+}
+a{
+color:#11999E;
+font-family: 'Mochiy Pop One', sans-serif;
+text-decoration: none;
+margin:10px 20px;
+}
+a:hover{
+  color:#ebebf0;
+}
+hr{
+  border: dotted;
+  border-bottom:none;
+  border-color:gray;
+  border-width: 4px;
+  width:10%;
+  margin:100px auto;
+}
+.web{
+  text-decoration: underline;
+}
+.top-container{background-color:#AAF1DF ;
+  padding-top:100px;
+  position: relative;
+}
+.middle-container{
+  margin:100px auto;
+}
+.bottom-container{
+ padding:50px  ;
+  background-color: #66BFBF;
+}
+.first-cloud{
+  position:absolute;
+  right:200px;
+  top:50px;
+}
+.second-cloud{
+  position:absolute;
+  top:190px;
+  right:280px;
+}
+
+.third-cloud{
+  position:absolute;
+}
+.birds{
+  position: absolute;
+  right:100px;
+  top:200px;
+}
+.birds1{
+  position:absolute;
+  top:260px;
+  left:100px;
+}
+.intro{
+  margin:auto;
+  width:30%;
+}
+.skills{
+  width:50%;
+ margin:100px auto 100px auto;
+ text-align: center;
+}
+.skill-row{
+  text-align: left;
+  margin:100px auto 100px auto;
+}
+.playing-football{
+  border-radius:50%;
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+.computer{
+  border-radius:50%;
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.contact-message{
+  margin:40px auto 60px;
+  width: 40%;
+}
+.copyright{
+  padding: 20px 0;
+  color: #ebebf0;
+}
+.btn{
+  background: #4995c7;
+  background-image: -webkit-linear-gradient(top, #4995c7, #196899);
+  background-image: -moz-linear-gradient(top, #4995c7, #196899);
+  background-image: -ms-linear-gradient(top, #4995c7, #196899);
+  background-image: -o-linear-gradient(top, #4995c7, #196899);
+  background-image: linear-gradient(to bottom, #4995c7, #196899);
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: 'Mochiy Pop One', sans-serif;
+  color: #ebebf0;
+  font-size: 18px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #45d3f7;
+  background-image: -webkit-linear-gradient(top, #45d3f7, #5ea3d1);
+  background-image: -moz-linear-gradient(top, #45d3f7, #5ea3d1);
+  background-image: -ms-linear-gradient(top, #45d3f7, #5ea3d1);
+  background-image: -o-linear-gradient(top, #45d3f7, #5ea3d1);
+  background-image: linear-gradient(to bottom, #45d3f7, #5ea3d1);
+  text-decoration: none;
+}
